@@ -1,4 +1,4 @@
-setwd('D:/document/ALL project/polygneic risk score/AV_635_Zhewen_Ren')
+setwd()
 
 install.packages("remotes")
 install.packages("readxl")
